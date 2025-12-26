@@ -14,8 +14,8 @@ Maintain a simple table with:
 - Status
 
 ## Risk Lifecycle
-- Identify: during planning and ongoing execution
-- Assess: estimate impact and likelihood
+- Identify: during planning and ongoing execution (all roles contribute)
+- Assess: estimate impact and likelihood (PM leads, Data Analyst provides metrics)
 - Mitigate: reduced via actions, contingency plans
 - Monitor: review at weekly syncs and update status
 
@@ -23,6 +23,8 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Support Lead shares user feedback and support trends in stakeholder updates
+- Data Analyst provides metrics dashboards for stakeholder visibility
 
 ## Communication Templates
 Weekly Status Template:
