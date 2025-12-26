@@ -14,12 +14,16 @@ After each sprint, release, or important milestone. Also after incidents.
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
+- Scrum Master facilitates the retrospective session
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Ensure psychological safety and blameless discussion
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
+- Scrum Master tracks completion of action items
 - Review outstanding actions in the weekly PM sync
+- Measure impact of improvements with Data Analyst support
 
 ## Example Action Item Template
 - Title:

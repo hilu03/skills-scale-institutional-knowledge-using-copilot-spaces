@@ -8,7 +8,7 @@ This documentation hub provides a complete guide to OctoAcme's project managemen
 
 OctoAcme follows a customer-first, iterative delivery model that emphasizes clear ownership, data-informed decisions, and psychological safety. Every project moves through a well-defined lifecycle—from initiation through planning, execution, release, and retrospective—with each phase supported by specific artifacts, checklists, and communication cadences. This structured yet flexible approach ensures that teams can deliver high-quality increments while maintaining transparency and continuous improvement.
 
-Our project management framework centers on collaboration between three core roles: Project Managers coordinate delivery, schedules, and risk communications; Product Managers define outcomes, prioritize the backlog, and measure success; and Developers implement features with a focus on quality and testability. Supporting these roles are QA/Testing specialists who validate acceptance criteria and stakeholders who provide essential inputs and approvals. Together, these personas work within a consistent rhythm of daily standups, weekly syncs, and monthly stakeholder updates, ensuring alignment across the organization.
+Our project management framework centers on collaboration between core roles with clear responsibilities and interactions. Project Managers coordinate delivery, schedules, and risk communications; Product Managers define outcomes, prioritize the backlog, and measure success; Developers implement features with a focus on quality and testability; Scrum Masters facilitate agile ceremonies and remove impediments; Release Managers orchestrate safe deployments; UX Designers ensure intuitive user experiences; Data Analysts provide metrics for decision-making; Support Leads maintain the user feedback loop; and QA/Testing specialists validate acceptance criteria. Supporting these roles are stakeholders who provide essential inputs and approvals. Together, these personas work within a consistent rhythm of daily standups, weekly syncs, and monthly stakeholder updates, ensuring alignment across the organization.
 
 Quality assurance and risk management are embedded throughout the entire project lifecycle. Teams maintain a Risk Register to track and mitigate potential issues, follow rigorous testing standards including unit, integration, and end-to-end tests, and use CI/CD pipelines with automated security scanning. Communication strategies are built around transparency and escalation paths, with templates for weekly status updates, incident communications, and stakeholder briefings. Post-release retrospectives capture learnings and convert them into actionable improvements, creating a culture of continuous enhancement that drives better outcomes for every subsequent project.
 
@@ -20,7 +20,7 @@ Our documentation is organized to support quick navigation and just-in-time lear
 A concise introduction to OctoAcme's project management principles, core roles, key artifacts, and project lifecycle. Start here to understand the foundation of how we run projects and the artifacts we use to track progress.
 
 ### [Roles & Personas](octoacme-roles-and-personas.md)
-Detailed definitions of Developers, Product Managers, and Project Managers, including their responsibilities, goals, and typical communication patterns. Use this to understand role expectations and collaboration dynamics.
+Detailed definitions of all project roles including Developers, Product Managers, Project Managers, Scrum Masters, Release Managers, UX Designers, Data Analysts, and Support Leads. Each role includes responsibilities, goals, typical communication patterns, and interactions with other roles. Use this to understand role expectations and collaboration dynamics.
 
 ### [Project Initiation](octoacme-project-initiation.md)
 Guidance for validating new project ideas, creating a Project One-pager, identifying stakeholders, and making go/no-go decisions. Follow this process when exploring and authorizing new work.
@@ -53,3 +53,13 @@ Framework for capturing learnings after sprints, releases, or incidents, and con
 ## Using These Docs with Copilot Spaces
 
 To leverage these process documents as context in Copilot Spaces, consider adding relevant guides to your project's `.copilot/` directory. This enables AI-assisted guidance that aligns with OctoAcme's established practices and terminology.
+
+## Templates & Tools
+
+OctoAcme provides practical templates to support project execution:
+
+- **[Sprint Planning Checklist](templates/sprint-planning-checklist.md)**: Comprehensive checklist for before, during, and after sprint planning sessions
+- **[Release Readiness Checklist](templates/release-readiness-checklist.md)**: Step-by-step validation for safe, predictable releases
+- **[RACI Matrix](templates/raci-matrix.md)**: Clarifies who is Responsible, Accountable, Consulted, and Informed for key project activities
+
+These templates can be customized to fit your specific project needs while maintaining consistency with OctoAcme practices.

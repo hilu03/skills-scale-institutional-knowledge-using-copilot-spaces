@@ -15,6 +15,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Ensure UX designs and wireframes are ready for implementation
+8. Set up tracking and analytics instrumentation plan (with Data Analyst)
 
 ## Backlog Item Template
 - Title:
@@ -27,8 +29,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Sprint / Iteration Planning
 - Timebox planning to agreed sprint length
+- Scrum Master facilitates planning session with team
 - Pull items that meet DoD and have clear acceptance criteria
+- Ensure designs are finalized before committing UI work
 - Ensure team capacity is respected
+- Confirm dependencies and coordination points
 
 ## Risk & Dependency Management
 - Capture in Risk Register:
@@ -41,3 +46,5 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+See also: [Sprint Planning Checklist](templates/sprint-planning-checklist.md) for detailed sprint-level planning guidance.
